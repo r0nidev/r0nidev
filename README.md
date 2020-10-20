@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Nic Lorenzo, I'm Software Developer
 
-I work in:
+### Skills
   Java, Spring Boot, JavaScript, jQuery, HTML, CSS, Ruby on Rails.
 
 <!--
