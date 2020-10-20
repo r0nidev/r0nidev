@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nic Lorenzo and I'm Software Developer
+### Hi there 👋 My name is Nic Lorenzo, I'm Software Developer
 
 <!--
 **r0nidev/r0nidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
