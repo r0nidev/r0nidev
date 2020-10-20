@@ -9,7 +9,7 @@
   Java, Spring Boot, Ruby on Rails, PHP, Laravel, MVC, Ruby, C.
   MySQL, PostgreSQL, SQLite
 <!--## Tools -->
-  Jira, Scrum, Git, Linux.
+  Jira, Scrum, Git, Linux, GitKraken.
 <!-- ## Database -->
 ### Interested in InfoSec & Open-source technologies.
   
