@@ -11,6 +11,7 @@
 <!--## Tools -->
   Jira, Scrum, Git.
 <!-- ## Database -->
+### Interested in InfoSec & Open-source technologies.
   
 <!--
 **r0nidev/r0nidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
