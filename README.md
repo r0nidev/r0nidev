@@ -1,12 +1,16 @@
 ### Hi there 👋 My name is Nic Lorenzo, I'm Software Developer
 
-### Skills
-  Angular,JavaScript, jQuery, HTML, CSS,JSP, Servlet, Git.
-### Backend
+### Hobbie
+  Read, Draw, play the guitar.
+
+### FrontEnd
+  Angular,JavaScript, jQuery, HTML, CSS,JSP, Servlet.
+### BackEnd
   Java, Spring Boot, Ruby on Rails,PHP
 ## Tools
-  Jira, Scrum
-
+  Jira, Scrum, Git.
+## Database
+  MySQL, PostgreSQL, SQLite
 <!--
 **r0nidev/r0nidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
