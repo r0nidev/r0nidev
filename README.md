@@ -4,9 +4,9 @@
   Read, Draw, play the guitar. -->
 ### Skills
 <!-- ### FrontEnd -->
-  Angular,JavaScript, jQuery, HTML, CSS,JSP, Servlet.
+  Angular, JavaScript, jQuery, HTML, CSS, JSP, Servlet.
 <!-- ### BackEnd -->
-  Java, Spring Boot, Ruby on Rails,PHP.
+  Java, Spring Boot, Ruby on Rails, PHP, Laravel, MVC, Ruby, C.
   MySQL, PostgreSQL, SQLite
 <!--## Tools -->
   Jira, Scrum, Git.
