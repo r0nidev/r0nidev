@@ -3,14 +3,14 @@
 ### Hobbie
   Read, Draw, play the guitar.
 ### Skills
---### FrontEnd
+<!-- ### FrontEnd -->
   Angular,JavaScript, jQuery, HTML, CSS,JSP, Servlet.
---### BackEnd
+<!-- ### BackEnd -->
   Java, Spring Boot, Ruby on Rails,PHP.
   MySQL, PostgreSQL, SQLite
-## Tools
+<!--## Tools -->
   Jira, Scrum, Git.
--- ## Database
+<!-- ## Database -->
   
 <!--
 **r0nidev/r0nidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
