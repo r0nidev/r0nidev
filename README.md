@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Nic Lorenzo, I'm Software Developer
 
+I work in:
+  Java, Spring Boot, JavaScript, jQuery, HTML, CSS, Ruby on Rails.
+
 <!--
 **r0nidev/r0nidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
