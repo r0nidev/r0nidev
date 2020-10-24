@@ -3,6 +3,7 @@
 <!-- ### Hobbie
   Read, Draw, play the guitar. -->
 - 🌱 I’m currently learning English.
+- I have worked with the following tools and technologies:
 <!-- ### Skills -->
  ### FrontEnd 
   Angular, JavaScript, jQuery, HTML, CSS. 
