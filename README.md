@@ -2,6 +2,7 @@
 
 <!-- ### Hobbie
   Read, Draw, play the guitar. -->
+- 🌱 I’m currently learning learning English.
 ### Skills
 <!-- ### FrontEnd -->
   Angular, JavaScript, jQuery, HTML, CSS, JSP, Servlet.
