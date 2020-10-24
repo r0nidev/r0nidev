@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Nic Lorenzo, I'm Software Developer
+### Hi, I'm Nic Lorenzo 👋, I'm Software Developer
 
 <!-- ### Hobbie
   Read, Draw, play the guitar. -->
