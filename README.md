@@ -2,16 +2,17 @@
 
 <!-- ### Hobbie
   Read, Draw, play the guitar. -->
-- 🌱 I’m currently learning learning English.
+- 🌱 I’m currently learning English.
 ### Skills
 <!-- ### FrontEnd -->
   Angular, JavaScript, jQuery, HTML, CSS, JSP, Servlet.
 <!-- ### BackEnd -->
   Java, Spring Boot, Ruby on Rails, PHP, Laravel, MVC, Ruby, C.
-  MySQL, PostgreSQL, SQLite
+  
 <!--## Tools -->
   Jira, Scrum, Git, Linux, GitKraken.
-<!-- ## Database -->
+## Database 
+SQL Server, MySQL, PostgreSQL, SQLite
 ### Interested in InfoSec & Open-source technologies.
   
 <!--
