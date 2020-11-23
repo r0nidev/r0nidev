@@ -13,7 +13,7 @@
 <!--## Tools -->
   Jira, Scrum, Git, Linux, GitKraken.
 ## Database 
-SQL Server, MySQL, PostgreSQL, SQLite.
+Oracle, SQL Server, MySQL, PostgreSQL, SQLite.
 ### Interested in InfoSec & Open-source technologies.
   
 <!--
