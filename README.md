@@ -8,7 +8,7 @@
  ### FrontEnd 
   Angular, JavaScript, jQuery, HTML, CSS, Bootstrap 4. 
   ### BackEnd 
-  Java, Spring Boot API REST, Ruby on Rails, PHP, Laravel, Spring MVC, Ruby, C, JSP, Servlet.
+  Java, Spring Boot, API REST, Ruby on Rails, PHP, Laravel, Spring MVC, Ruby, C, JSP, Servlet.
   
 <!--## Tools -->
   Jira, Scrum, Git, Linux, GitKraken.
