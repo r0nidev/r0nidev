@@ -2,7 +2,7 @@
 
 <!-- ### Hobbie
   Read, Draw, play the guitar. -->
-- 🌱 I’m currently learning English.
+- 🌱 I’m currently learning Python.
 - I have worked with the following tools and technologies:
 <!-- ### Skills -->
  ### FrontEnd 
