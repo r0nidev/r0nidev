@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 -->
 
 ## My Projects
-CRUD with Spring Boot and Thymeleaf
+# CRUD with Spring Boot and Thymeleaf
 
-CRUD with Spring Boot and Angular 10
+## CRUD with Spring Boot and Angular 10
 Backend:
 https://github.com/r0nidev/Rhbackend/tree/master
 
 Frontend
 https://github.com/r0nidev/rhfrontend/tree/master
 
+# Another
 
