@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Projects
-# CRUD with Spring Boot and Thymeleaf
+## CRUD with Spring Boot and Thymeleaf
 
 ## CRUD with Spring Boot and Angular 10
 Backend:
